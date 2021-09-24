@@ -1,2 +1,1 @@
-# Cronometro-Calculadora
-Cronometro e calculadora desenvolvido para a obtenção de nota na matéria de programação web.
+## Cronometro e calculadora que funciona como uma cronometro e calculadora
